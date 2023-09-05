@@ -1,8 +1,9 @@
-### Hi there 👋
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.richardhuf.com.au%2Fcreate-ai-generated-images-with-midjourney%2F&psig=AOvVaw16aeiToYnw8tWn4fwHGhh4&ust=1694012818594000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCIDH1dXfk4EDFQAAAAAdAAAAABAD
-<!--
-**franciscoIt/franciscoIt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hello, I'm Iván! 👋
+I am a cross-platform software developer specialized in back-end, with experience in mobile development and a passion 👨‍💻 for creating robust, clean, and modern software. 
+I’m currently working on Berlin 
+I am a native Spanish speaker and have a fluent level in English 🌐.
 
+<!--
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
