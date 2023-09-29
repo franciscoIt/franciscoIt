@@ -1,8 +1,5 @@
 ## Hello, I'm Iván! 👋
-I am a software developer with experience in different back-end projects, solid foundation in mobile development and passion 👨‍💻 for creating robust, clean, and modern software. 
-I’m currently working on Berlin 
-I am a native Spanish speaker and have a fluent level in English 🌐.
-
+I am a software developer with experience in various back-end projects, a solid foundation in mobile development, and a passion for creating robust, clean, and modern software. I am currently working in Berlin. I am a native Spanish speaker and have a fluent level in English.
 <!--
 Here are some ideas to get you started:
 
