@@ -3,9 +3,12 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ivnro)
 
 ### Welcome to my profile! I'm [Iván]()
-Back-end coder, cloud certified soon and cibersecurity consultant.
+Back-end coder, cloud certified soon and cibersecurity consultant. 
+## Hobbies 
+I don't know anymore if I escape from reality with the technology or if I escape from the technology with reality.
 
-## Here's a listing of technologies that I am used to
+
+## Here's a listing of technologies that I am used to / interested in
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
