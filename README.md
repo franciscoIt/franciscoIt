@@ -1,5 +1,5 @@
 ## Hello, I'm Iván! 👋 
-[![Gmail Badge](https://img.shields.io/badge/-ivnro.dev-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ivnro.dev@gmail.com)](mailto:ivnro.dev@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-ivnro.dev-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:ivnro.dev@gmail.com)](mailto:ivnro.dev@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ivnro)
 - 🔭 I’m currently working on cibersecurity and Python development.
 - 🌱 I’m currently learning Devops related technologies as AWS, k8s, terraform and Github Actions.
