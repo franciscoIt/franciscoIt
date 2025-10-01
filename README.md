@@ -1,5 +1,5 @@
 ## Hello.friend, Welcome to my profile! I'm [Iván]()
-A code boy, keen on cloud and cibersecurity. 
+A IT enthusiast, keen on cloud and cibersecurity. 
 
 [![Gmail Badge](https://img.shields.io/badge/-ivnro.dev-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:ivnro.dev@gmail.com)](mailto:ivnro.dev@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ivnro)
